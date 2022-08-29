@@ -1,0 +1,3 @@
+Modules --> At the bottom Sandbox Environment
+Start Lab --> AWS --> Launch Instance 
+Go back to sandbox click details show Download the ppk file then go to putty copy the public IP and then add the file to ssh under auth and log in as ec2-user
